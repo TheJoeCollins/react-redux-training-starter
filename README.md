@@ -8,6 +8,6 @@ npm install
 
 ## Overview
 
-This is the base starter package with redux depenedicies already a part of the package.json.
+This is the base starter package with redux dependencies already a part of the package.json.
 
 
